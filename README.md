@@ -1,4 +1,6 @@
-# Factbase-scraping
+# DJT political rally speech generator using Open AI's GPT-2. 
+
+### Getting data
 
 I wanted to get text transcripts of Donald Trump's all political rallies since his announcement of candicacy in 2016. 
 [Factbase](https://factba.se/transcripts) has them all, but it doesn't provide an API to get the transcript text. 
@@ -24,3 +26,4 @@ is separate by time.
 write_transcript(speech_name,speech_url)
 ```
 
+### GPT-2 finetuning and model deployment in Google Cloud has been discussed in my other [repo](https://github.com/addadda023/GPT-2-text-generation)
