@@ -28,4 +28,4 @@ write_transcript(speech_name,speech_url)
 
 ### GPT-2 finetuning and model deployment in Google Cloud has been discussed in my other [repo](https://github.com/addadda023/GPT-2-text-generation)
 
-Try the app here.
+Try the app [here.](https://addadda023.github.io/DJT-speech-generator/)
