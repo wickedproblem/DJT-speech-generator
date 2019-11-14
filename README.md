@@ -2,7 +2,7 @@
 
 ### Getting data
 
-I wanted to get text transcripts of Donald Trump's all political rallies since his announcement of candicacy in 2016. 
+I wanted to get text transcripts of Donald Trump's all political rallies since his announcement of candicacy in 2015. 
 [Factbase](https://factba.se/transcripts) has them all, but it doesn't provide an API to get the transcript text. 
 I put together a simple script to get the transcript texts. 
 
